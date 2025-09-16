@@ -1,0 +1,16 @@
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\bin\Debug\modbus_master.exe.config
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\bin\Debug\modbus_master.exe
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\bin\Debug\modbus_master.pdb
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\bin\Debug\NModbus4.dll
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\modbus_master.csproj.AssemblyReference.cache
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\MainWindow.baml
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\MainWindow.g.cs
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\App.g.cs
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\modbus_master_MarkupCompile.cache
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\modbus_master.g.resources
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\modbus_master.Properties.Resources.resources
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\modbus_master.csproj.GenerateResource.cache
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\modbus_master.csproj.CoreCompileInputs.cache
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\modbus_m.66E78944.Up2Date
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\modbus_master.exe
+C:\Users\dongki\RiderProjects\modbus_master\modbus_master\obj\Debug\modbus_master.pdb

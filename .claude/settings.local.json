@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__text-editor__text_editor",
+      "mcp__filesystem__list_directory",
+      "mcp__filesystem__read_text_file"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
